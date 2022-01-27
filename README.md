@@ -1,7 +1,3 @@
-# README
-
-## This is the README for your extension "ifte-dark"
-
 Made a VS-Code theme by combining two of my favorite Theme
 
 -   Border-Scheme from **Monokai High-Contrast (gray)**
@@ -14,6 +10,6 @@ Go to vs-code extensions and search **Ifte-Dark**. Click Install button.
 
 Or
 
-Visit
+Visit [IfteTheme](https://marketplace.visualstudio.com/items?itemName=IftekharIfat.ifte-dark)
 
 **Enjoy!**
