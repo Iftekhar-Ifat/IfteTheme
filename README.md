@@ -5,7 +5,6 @@ Made a VS-Code theme by combining two of my favorite Theme
 
 ## Installation
 
-Installation
 Go to vs-code extensions and search **IfteTheme**. Click Install button.
 
 Or
