@@ -1,0 +1,26 @@
+{
+    "name": "ifte-dark",
+    "displayName": "IfteTheme",
+    "description": "Monokai High-Contrast (gray) + Andromeda-colorizer => IfteTheme!",
+    "version": "0.0.1",
+    "publisher": "IftekharIfat",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Iftekhar-Ifat/ifte-dark.git"
+    },
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "IfteTheme",
+                "uiTheme": "hc-black",
+                "path": "./themes/IfteTheme-color-theme.json"
+            }
+        ]
+    }
+}
