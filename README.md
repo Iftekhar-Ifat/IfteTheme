@@ -6,10 +6,12 @@ Made a VS-Code theme by combining two of my favorite Theme
 ## Installation
 
 Installation
-Go to vs-code extensions and search **Ifte-Dark**. Click Install button.
+Go to vs-code extensions and search **IfteTheme**. Click Install button.
 
 Or
 
 Visit [IfteTheme](https://marketplace.visualstudio.com/items?itemName=IftekharIfat.ifte-dark)
+
+![demo](demo.png)
 
 **Enjoy!**
